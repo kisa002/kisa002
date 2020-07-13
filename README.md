@@ -1,21 +1,16 @@
-### Hi there 👋
+산업기능요원(Agent)로 근무하고 있는 귀염둥이 개발자 팡무입니다.
 
-<!--
-**kisa002/kisa002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 한국산업기술대학교 1학년
+- 🌱 펜타시큐리티 모바일 개발팀
+- 👯 넷마블 게임아카데미 프로그래머
+- 🤔 SmarteenAppClub 8기 부회장
+- 💬 대한민국 청소년 기자단 IT•과학부 기자
+- 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
+- 😄 Tech: Unity, GameMaker, PHP, C#, JAVA, WEB, jQuery
+- ⚡ ***HolyKnight***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 
+  [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 
 	
   </div>
