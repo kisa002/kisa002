@@ -6,7 +6,7 @@
 - 🤔 SmarteenAppClub 8기 부회장
 - 💬 대한민국 청소년 기자단 IT•과학부 기자
 - 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
-- 😄 Tech: Unity, GameMaker, PHP, C#, JAVA, WEB, jQuery
+- 😄 Tech: Unity, GameMaker, Android, Kotlin, Java C#, PHP, WEB, jQuery
 - ⚡ ***HolyKnight***
 
  <div align=center>
