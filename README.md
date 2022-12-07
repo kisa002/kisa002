@@ -1,18 +1,36 @@
-귀염둥이 안드로이드 개발자 팡무입니다 >_<
+### Hello, PangMoo?
+상상하는 것을 여러가지 언어와 엔진을 사용하여 개발하는 것을 좋아하는 귀염둥이 개발자 팡무입니다 >_<
 
+### 학력
+- 🔭 평촌경영고등학교 스마트콘텐츠과
 - 🔭 한국산업기술대학교 1학년
-- 🌱 펜타시큐리티 모바일 개발팀 (2019-2021)
+
+### 경력
+- 🌱 펜타시큐리티 안드로이드 메인 개발 (2019-2021)
 - 🌱 아우토크립트 안드로이드 개발 팀장 (2021~)
+   - 🔋 [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
 - 🌱 산업기능요원(Agent) 복무 완료
-- 👯 넷마블 게임아카데미 프로그래머
+
+### 경험
+- 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
+- 🎮 넷마블 게임아카데미 프로그래머
 - 🤔 SmarteenAppClub 8기 부회장
 - 💬 대한민국 청소년 기자단 IT•과학부 기자
-- 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
-- 😄 Tech: Unity, GameMaker, Android, Kotlin, Java C#, PHP, WEB, jQuery
-- ⚡ ***HolyKnight***
 
- <div align=center>
-	
-  [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 
-	
-  </div>
+### 기술
+- 🤖 Android
+   - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose
+- 🕹 Unity
+- 🌤 PHP, MySQL
+
+<div align=center>
+   
+   [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 	
+   
+</div>
+
+<div align=center>
+   
+   ![PangMoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisa002&count_private=true&theme=radical)
+   
+</div>
