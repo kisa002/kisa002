@@ -1,11 +1,14 @@
-### Hello, PangMoo?
+# Hello, PangMoo?
 상상하는 것을 여러가지 언어와 엔진을 사용하여 개발하는 것을 좋아하는 귀염둥이 개발자 팡무입니다 >_<
 
-### 학력
+- 📨 [블로그](https://holykisa.tistory.com/)
+- 🖥 [포트폴리오](http://haeyum.dev/pangmoo)
+
+# 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
 - 📖 한국공학대학교 소프트웨어전공 (2019~)
 
-### 경력
+# 경력
 - 🌱 펜타시큐리티 안드로이드 메인 개발 (2019-2021)
 - 🌱 아우토크립트 안드로이드 개발 팀장 (2021~)
    - 🔋 [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
@@ -13,13 +16,13 @@
 - 🔭 [Google Developer Groups Songdo 오거나이저](https://gdg.community.dev/gdg-songdo/) (2022~)
 - 🔭 [Google Developer Student Clubs TUK 코어](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
 
-### 경험
+# 경험
 - 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
 - 🎮 넷마블 게임아카데미 프로그래머
 - 🤔 SmarteenAppClub 8기 부회장
 - 💬 대한민국 청소년 기자단 IT•과학부 기자
 
-### 기술
+# 기술
 - 🤖 Android
    - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose
 - 🕹 Unity
