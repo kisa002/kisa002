@@ -10,7 +10,7 @@
 
 # 경력
 - 🌱 펜타시큐리티 안드로이드 메인 개발 (2019-2021)
-- 🌱 아우토크립트 안드로이드 개발 팀장 (2021~)
+- 🌱 아우토크립트 안드로이드 개발 팀장 (2021~2022.12)
    - 🔋 [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
 - 🌱 산업기능요원(Agent) 복무 완료
 - 🔭 [Google Developer Groups Songdo 오거나이저](https://gdg.community.dev/gdg-songdo/) (2022~)
@@ -26,6 +26,7 @@
 - 🤖 Android
    - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose
 - 🕹 Unity
+   - 🎖 Unity Certified Associate (2019)
 - 🌤 PHP, MySQL
 
 <div align=center>
