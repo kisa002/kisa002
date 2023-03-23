@@ -33,6 +33,11 @@
    - 🎖 Unity Certified Associate (2019)
 - 🌤 PHP, MySQL
 
+# 언론
+- 🗨️ 공적 마스크 지도앱 뉴스
+   - [조선일보](https://www.chosun.com/site/data/html_dir/2020/03/23/2020032303791.html)
+   - [KBS 뉴스](https://news.kbs.co.kr/news/view.do?ncd=4398881&ref=A)
+
 <div align=center>
    
    [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 	
