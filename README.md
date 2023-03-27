@@ -37,6 +37,8 @@
 - 🗨️ 공적 마스크 지도앱 뉴스
    - [조선일보](https://www.chosun.com/site/data/html_dir/2020/03/23/2020032303791.html)
    - [KBS 뉴스](https://news.kbs.co.kr/news/view.do?ncd=4398881&ref=A)
+- 🪪 16회 앱잼 개최 관련 뉴스
+   - [게임동아](https://game.donga.com/90001/)
 
 <div align=center>
    
