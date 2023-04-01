@@ -42,6 +42,9 @@
 - 📚 도봉구 도서관 강연 뉴스
    - [뉴스1](https://www.news1.kr/articles/?3629401)
    > 청소년 인디개발사 'HAEYUM'의 유광무 대표가 '나만의 AI 비서, 챗봇'을 주제로 강연한다
+- 👓 2019 경기 VR/AR 해커톤 우승
+   - [뉴스웨이](https://www.newsway.co.kr/news/view?tp=1&ud=2019073011101768163)
+   > 해윰(HYEYUM)팀은 VR기술 활용 가구배치 및 가상현실 인테리어 콘텐츠를 개발해 대만 HTC바이브社의 후원으로 현지 VR행사인 ‘United XR’에서의 참가 및 비즈니스 네트워킹 기회를 얻었다.
 
 <div align=center>
    
