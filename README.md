@@ -36,6 +36,7 @@
 # 언론
 - 🗨️ 공적 마스크 지도앱 뉴스
    - [조선일보](https://www.chosun.com/site/data/html_dir/2020/03/23/2020032303791.html)
+   >  유광무(20)씨는 '세이브마스크' 서비스를 만들었다. 원활한 서비스를 제공하기 위해 요즘도 퇴근 후 매일 새벽 3시까지 유지·보수 작업을 한다
    - [KBS 뉴스](https://news.kbs.co.kr/news/view.do?ncd=4398881&ref=A)
 - 🪪 16회 앱잼 개최 관련 뉴스
    - [게임동아](https://game.donga.com/90001/)
