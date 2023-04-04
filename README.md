@@ -16,6 +16,9 @@
    - 🚗 [아이맘택시 (기사용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.dvr)
    - 🚙 [케이콜(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.kcalldvr)
    - 🐕‍ [이동의자유맵](https://play.google.com/store/apps/details?id=com.autocrypt.mi.bf2u.barrierfree)
+   - 📦 사내 안드로이드 CI&CD 서버 구축
+      - Docker + Jenkins (Declarative Pipeline)
+      - Bitbucket -> Webhook -> Jenkins -> Archive & App Distribution
 - 🌱 산업기능요원(Agent) 복무 완료
 - 🔭 [Google Developer Groups Songdo 오거나이저](https://gdg.community.dev/gdg-songdo/) (2022~)
 - 🔭 [Google Developer Student Clubs TUK 코어](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
@@ -28,10 +31,24 @@
 
 # 기술
 - 🤖 Android
-   - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose
+   - Main
+      - `현재까지도 주로 사용하는 기술이에요`
+      - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose, Ktor, DataStore, ROOM
+   - Deprecated
+      - `과거에 주로 사용했던 기술이에요`
+      - Java, MVC, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View
+   - Firebase
+      - Cloude Messaging
+      - Crashlytics
+      - Realtime Database
+      - Fire Store
+      - App Distribution
 - 🕹 Unity
    - 🎖 Unity Certified Associate (2019)
-- 🌤 PHP, MySQL
+- 🌤 Backend
+   - PHP
+   - Ktor
+   - MySQL
 
 # 언론
 - 🗨️ 공적 마스크 지도앱 뉴스
