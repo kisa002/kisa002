@@ -68,6 +68,14 @@
    - [전자신문](https://www.etnews.com/20181223000004)
    > 게임개발경진대회 'GGC 게임잼' 경연에선 양명진, 김대도, 소병욱, 유광무 학생이 팀을 이뤄 개발한 스마트폰 게임 '패턴나이트'가 1위를 차지했다.
 
+# 발표
+- GDG DevFest 2022 Songdo&Incheon
+   - Jetpack Compose 사내 도입기
+- GDG Songdo HelloWorld. 23 in Incheon
+   - Android의 최신 권장 UI 개발. Jetpack Compose 맛보기
+- GDG Android Korea super.init(version=4)
+   - API 통신, Retrofit 대신 Ktor 어떠신가요?
+
 <div align=center>
    
    [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 	
