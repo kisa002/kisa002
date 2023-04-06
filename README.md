@@ -75,6 +75,7 @@
    - Android의 최신 권장 UI 개발. Jetpack Compose 맛보기
 - GDG Android Korea super.init(version=4)
    - API 통신, Retrofit 대신 Ktor 어떠신가요?
+   - [발표자료](https://speakerdeck.com/pangmoo/api-tongsin-retrofit-daesin-ktor-eoddeosingayo)
 
 <div align=center>
    
