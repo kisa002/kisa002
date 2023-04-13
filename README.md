@@ -6,7 +6,7 @@
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
-- 📖 한국공학대학교 소프트웨어전공 (2019~)
+- 📖 한국공학대학교 컴퓨터공학부 소프트웨어전공 (2019~)
 
 # 경력
 - 🌱 펜타시큐리티 안드로이드 메인 개발 (2019-2021)
@@ -25,24 +25,25 @@
 
 # 경험
 - 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
-- 🎮 넷마블 게임아카데미 프로그래머
 - 🤔 SmarteenAppClub 8기 부회장
+- 🎮 넷마블 게임아카데미 2기
+- 🗳️ 스마일게이트 멤버십 11기
 - 💬 대한민국 청소년 기자단 IT•과학부 기자
 
 # 기술
 - 🤖 Android
    - Main
       - `현재까지도 주로 사용하는 기술이에요`
-      - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose, Ktor, DataStore, ROOM
+      - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
    - Deprecated
       - `과거에 주로 사용했던 기술이에요`
       - Java, MVC, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View
    - Firebase
+      - App Distribution
       - Cloude Messaging
       - Crashlytics
-      - Realtime Database
       - Fire Store
-      - App Distribution
+      - Realtime Database
 - 🕹 Unity
    - 🎖 Unity Certified Associate (2019)
 - 🌤 Backend
