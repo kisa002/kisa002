@@ -52,6 +52,13 @@
    - MySQL
 
 # 언론
+- 꿈스타그램 고등학생개발자 출연
+   - [꿈스타그램 다시보기](https://mtv.jtbc.co.kr/replay/pr10010454/pm10041346/ep10034866/view)
+   - [블로그 요약](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kny1000&logNo=221059107295)
+   > 평촌경영고등학교 유광무 학생과 함께하는 좌충우돌 앱 개발기~
+대기업 연봉 수준의 수익을 안겨준 특급 애플리케이션부터
+사람은 물론~ 강아지들까지 심쿵(?)하게 만든 신작 최초 공개!
+어른들 못지않은 청소년 능력자들의 이야기
 - 🗨️ 공적 마스크 지도앱 뉴스
    - [KBS 뉴스](https://news.kbs.co.kr/news/view.do?ncd=4398881&ref=A)
    - [조선일보](https://www.chosun.com/site/data/html_dir/2020/03/23/2020032303791.html)
