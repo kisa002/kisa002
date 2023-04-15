@@ -81,6 +81,10 @@
    > 게임개발경진대회 'GGC 게임잼' 경연에선 양명진, 김대도, 소병욱, 유광무 학생이 팀을 이뤄 개발한 스마트폰 게임 '패턴나이트'가 1위를 차지했다.
 
 # 발표
+- Naver SEF 2018
+   - [발표영상](https://www.edwith.org/sef2018/lecture/32289/)
+   > 고등학생 챗봇 개발자, 청소년 인디개발사 HAEYUM 대표, SW 교육 봉사 설리번프로젝트 운영자.
+많은 사람에게 인정받고 당당히 개발자라고 불리우는 고등학생들의 이야기입니다.
 - GDG DevFest 2022 Songdo&Incheon
    - Jetpack Compose 사내 도입기
    - [발표자료](https://www.slideshare.net/ssuserb6c2641/devfest-2022-jetpack-compose-pptx)
