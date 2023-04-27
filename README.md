@@ -93,11 +93,14 @@
 많은 사람에게 인정받고 당당히 개발자라고 불리우는 고등학생들의 이야기입니다.
 - GDG DevFest 2022 Songdo&Incheon
    - Jetpack Compose 사내 도입기
+   - [Festa](https://festa.io/events/2758)
    - [발표자료](https://www.slideshare.net/ssuserb6c2641/devfest-2022-jetpack-compose-pptx)
 - GDG Songdo HelloWorld. 23 in Incheon
    - Android의 최신 권장 UI 개발. Jetpack Compose 맛보기
+   - [Festa](https://festa.io/events/3182)
 - GDG Android Korea super.init(version=4)
    - API 통신, Retrofit 대신 Ktor 어떠신가요?
+   - [Festa](https://festa.io/events/3267)
    - [발표자료](https://speakerdeck.com/pangmoo/api-tongsin-retrofit-daesin-ktor-eoddeosingayo)
 
 <div align=center>
