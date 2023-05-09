@@ -4,6 +4,7 @@
 - 📨 [블로그](https://holykisa.tistory.com/)
 - 🖥 [포트폴리오](https://haeyum.dev/pangmoo)
 - 🗳️ [링크드인](https://www.linkedin.com/in/firebase/)
+- 🚀 [로켓펀치](https://www.rocketpunch.com/@7c8d04fec04644a4)
 - 😎 [페이스북](https://fb.com/kisa002)
 - 🌟 [인스타그램](https://www.instagram.com/kisahacker/)
 
