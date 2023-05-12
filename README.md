@@ -7,6 +7,7 @@
 - 🚀 [로켓펀치](https://www.rocketpunch.com/@7c8d04fec04644a4)
 - 😎 [페이스북](https://fb.com/kisa002)
 - 🌟 [인스타그램](https://www.instagram.com/kisahacker/)
+- 📹 [유튜브](https://www.youtube.com/channel/UCFpIYi_nOXp91jUCciDYOug)
 
 # In Progress
 - 📂 KotlinConf'23 Global in Songdo 주최 및 스피커 준비 (~2023. 05. 13)
