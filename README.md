@@ -108,6 +108,7 @@
    - [발표자료](https://speakerdeck.com/pangmoo/api-tongsin-retrofit-daesin-ktor-eoddeosingayo)
 - KotlinConf'23 Global in Songdo
    - Compose로 Android/Desktop 멀티플랫폼 만들기
+   - [Festa](https://festa.io/events/3416)
    - [발표자료](https://speakerdeck.com/pangmoo/composero-android-and-desktop-meoltipeulraespom-mandeulgi)
 
 <div align=center>
