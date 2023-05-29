@@ -52,6 +52,7 @@
       - App Distribution
       - Cloude Messaging
       - Crashlytics
+      - Dynamic Links
       - Fire Store
       - Realtime Database
 - 🕹 Unity
