@@ -47,7 +47,7 @@
       - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
    - Deprecated
       - `과거에 주로 사용했던 기술이에요`
-      - Java, MVC, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View
+      - Java, MVC, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View + Navigation Component
    - Firebase
       - App Distribution
       - Cloude Messaging
