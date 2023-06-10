@@ -116,6 +116,17 @@
    - [Festa](https://festa.io/events/3416)
    - [발표자료](https://speakerdeck.com/pangmoo/composero-android-and-desktop-meoltipeulraespom-mandeulgi)
 
+# 프로젝트
+- TRANSER
+   - Kotlin Mutliplatform으로 Android/Desktop 번역 유틸리티 개발
+   - [Git](https://github.com/kisa002/transer)
+- 세이브마스크
+   - 공적마스크 API를 활용하여 만든 마스크 앱
+   - [GooglePlay](https://play.google.com/store/apps/details?id=com.haeyum.savemask)
+- 한국전쟁2030
+   - 중학교 3학년 때 출시한 +50만 회 전쟁 게임
+   - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
+
 <div align=center>
    
    [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 	
