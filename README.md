@@ -126,6 +126,9 @@
 - 한국전쟁2030
    - 중학교 3학년 때 출시한 +50만 회 전쟁 게임
    - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
+- AR길찾기 Trelity
+   - STA+C 대회 최우수상
+   - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
 
 <div align=center>
    
