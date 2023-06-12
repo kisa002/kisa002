@@ -126,7 +126,11 @@
 - 한국전쟁2030
    - 중학교 3학년 때 출시한 +50만 회 전쟁 게임
    - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
-- AR길찾기 Trelity
+- VR 쇼핑몰 - VITEDS
+   - 2019 경기 VR/AR 해커톤 HTC VIVE 초이스 수상 (대만 United XR 전시 및 HTC 본사 견학)
+   - [Youtube 시연 영상](https://www.youtube.com/watch?v=NEQlkGCJH44)
+   - [Youtube 프로모션 영상](https://www.youtube.com/watch?v=1il1aoBZwM0)
+- AR 길찾기 - Trelity
    - STA+C 대회 최우수상
    - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
 
