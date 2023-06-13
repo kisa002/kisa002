@@ -120,6 +120,9 @@
 - TRANSER
    - Kotlin Mutliplatform으로 Android/Desktop 번역 유틸리티 개발
    - [Git](https://github.com/kisa002/transer)
+- 변수/함수 이름 짓는 플러그인 - NamingFox
+   - [Git](https://github.com/kisa002/NamingFox)
+   - [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21095-namingfox)
 - 세이브마스크
    - 공적마스크 API를 활용하여 만든 마스크 앱
    - [GooglePlay](https://play.google.com/store/apps/details?id=com.haeyum.savemask)
