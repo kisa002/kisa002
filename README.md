@@ -139,6 +139,9 @@
 - 헌츠: 숲속의 사냥꾼
    - 방학기간 동안 만든 게임 프로젝트
    - [Youtube](https://www.youtube.com/watch?v=H6anyYtKSoM)
+- Slash Hunter
+   - 스마일게이트 멤버십 11기 프로젝트
+   - [Youtube](https://www.youtube.com/watch?v=d2vKvDNbdrE)
 
 <div align=center>
    
