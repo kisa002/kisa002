@@ -139,8 +139,8 @@
    - STA+C 대회 최우수상
    - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
 - AR 쇼핑몰 - AURES
-- 한국공학대 프리캡스톤디자인 대상
-- [Youtube](https://www.youtube.com/watch?v=xfw-bDkxfCU)
+   - 한국공학대 프리캡스톤디자인 대상
+   - [Youtube](https://www.youtube.com/watch?v=xfw-bDkxfCU)
 - 헌츠: 숲속의 사냥꾼
    - 방학기간 동안 만든 게임 프로젝트
    - [Youtube](https://www.youtube.com/watch?v=H6anyYtKSoM)
