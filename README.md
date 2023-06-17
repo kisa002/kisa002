@@ -134,10 +134,13 @@
    - [Youtube 시연 영상](https://www.youtube.com/watch?v=NEQlkGCJH44)
    - [Youtube 프로모션 영상](https://www.youtube.com/watch?v=1il1aoBZwM0)
 - VR Drawing - DRUNT
-   - [Youtube 프로모션/시연 영상](https://www.youtube.com/watch?v=1PbxeVkxfkk)
+   - [Youtube](https://www.youtube.com/watch?v=1PbxeVkxfkk)
 - AR 길찾기 - Trelity
    - STA+C 대회 최우수상
    - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
+- AR 쇼핑몰 - AURES
+- 한국공학대 프리캡스톤디자인 대상
+- [Youtube](https://www.youtube.com/watch?v=xfw-bDkxfCU)
 - 헌츠: 숲속의 사냥꾼
    - 방학기간 동안 만든 게임 프로젝트
    - [Youtube](https://www.youtube.com/watch?v=H6anyYtKSoM)
