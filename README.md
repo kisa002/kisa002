@@ -120,7 +120,8 @@
 - TRANSER
    - Kotlin Mutliplatform으로 Android/Desktop 번역 유틸리티 개발
    - [Git](https://github.com/kisa002/transer)
-- 변수/함수 이름 짓는 플러그인 - NamingFox
+- NamingFox
+   - 개발자의 최대 난제, 변수/함수 이름 지어주는 플러그인
    - [Git](https://github.com/kisa002/NamingFox)
    - [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21095-namingfox)
 - 세이브마스크
