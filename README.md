@@ -14,8 +14,6 @@
 - 📂 한이음 ICT (2023. 04 - 2023. 11)
 - 📂 Google Solution Challenge (2023. 01 ~ )
    - Top 100 달성
-- 📂 2023 GDG Campus Korea 사람을 찾습니다 연사 (2023. 06. 25)
-   - 마켓컬리 라운지
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -115,6 +113,9 @@
    - Compose로 Android/Desktop 멀티플랫폼 만들기
    - [Festa](https://festa.io/events/3416)
    - [발표자료](https://speakerdeck.com/pangmoo/composero-android-and-desktop-meoltipeulraespom-mandeulgi)
+- 2023 GDG Campus Korea 사람을 찾습니다 at 컬리
+   - 누구나 할 수 있는 사이드 프로젝트
+   - [Festa](https://festa.io/events/3454)
 
 # 프로젝트
 - TRANSER
