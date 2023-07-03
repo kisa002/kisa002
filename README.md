@@ -1,6 +1,7 @@
 # Hello, PangMoo?
 상상하는 것을 여러가지 언어와 엔진을 사용하여 개발하는 것을 좋아하는 귀염둥이 개발자 팡무입니다 >_<
 
+- 👒 [네이버](https://search.naver.com/search.naver?query=유광무)
 - 📨 [블로그](https://holykisa.tistory.com/)
 - 🖥 [포트폴리오](https://haeyum.dev/pangmoo)
 - 🗳️ [링크드인](https://www.linkedin.com/in/firebase/)
@@ -44,13 +45,13 @@
 - 🤖 Android
    - Main
       - `현재까지도 주로 사용하는 기술이에요`
-      - Kotlin, MVVM, Corouitne + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
+      - Kotlin, MVVM, Coroutine + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
    - Deprecated
       - `과거에 주로 사용했던 기술이에요`
       - Java, MVC, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View + Navigation Component
    - Firebase
       - App Distribution
-      - Cloude Messaging
+      - Cloud Messaging
       - Crashlytics
       - Dynamic Links
       - Fire Store
