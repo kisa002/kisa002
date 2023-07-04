@@ -39,7 +39,8 @@
 - 🎮 넷마블 게임아카데미 2기
 - 🗳️ 스마일게이트 멤버십 11기
 - 💬 대한민국 청소년 기자단 IT•과학부 기자
-- 🦮 STA+C 2019-2022 엔터테이먼트 멘토
+- 🦮 STA+C 2019-2023 멘토
+   - [Tacademy](https://tacademy.skplanet.com/front/exhibition/listExhibition.action)
 
 # 기술
 - 🤖 Android
