@@ -13,6 +13,7 @@
 # In Progress
 - 📂 IT 특성화고등학교 유니티 강의 (2023. 04 - 2023. 11)
 - 📂 한이음 ICT (2023. 04 - 2023. 11)
+- 📂 Google I/O Extended Incheon (2023. 08. 26)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -31,7 +32,7 @@
       - Bitbucket -> Webhook -> Jenkins -> Archive & App Distribution
 - 🌱 산업기능요원(Agent) 복무 완료
 - 🔭 [Google Developer Groups Songdo 오거나이저](https://gdg.community.dev/gdg-songdo/) (2022~)
-- 🔭 [Google Developer Student Clubs TUK 코어](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
+- 🔭 [Google Developer Student Clubs TUK Lead](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
 
 # 경험
 - 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
