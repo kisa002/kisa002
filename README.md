@@ -24,19 +24,22 @@
 - 📖 한국공학대학교 컴퓨터공학부 소프트웨어전공 (2019~)
 
 # 경력
-- 🌱 펜타시큐리티 안드로이드 메인 개발 (2019-2021)
-- 🌱 아우토크립트 안드로이드 개발 팀장 (2021~2022.12)
-   - 🔋 [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
-   - 🚕 [아이맘택시 - 은평구 바우처택시](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.pax)
-   - 🚗 [아이맘택시 (기사용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.dvr)
-   - 🚙 [케이콜(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.kcalldvr)
-   - 🐕‍ [이동의자유맵](https://play.google.com/store/apps/details?id=com.autocrypt.mi.bf2u.barrierfree)
-   - 📦 사내 안드로이드 CI&CD 서버 구축
-      - Docker + Jenkins (Declarative Pipeline)
-      - Bitbucket -> Webhook -> Jenkins -> Archive & App Distribution
+- 회사
+   - 🌱 펜타시큐리티 안드로이드 메인 개발 (2019-2021)
+   - 🌱 아우토크립트 안드로이드 개발 팀장 (2021~2022.12)
+      - 🔋 [충전국밥](https://play.google.com/store/apps/details?id=com.autocrypt.mi.evservice) 
+      - 🚕 [아이맘택시 - 은평구 바우처택시](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.pax)
+      - 🚗 [아이맘택시 (기사용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.namu.dvr)
+      - 🚙 [케이콜(기사님용)](https://play.google.com/store/apps/details?id=com.autocrypt.mi.kcalldvr)
+      - 🐕‍ [이동의자유맵](https://play.google.com/store/apps/details?id=com.autocrypt.mi.bf2u.barrierfree)
+      - 📦 사내 안드로이드 CI&CD 서버 구축
+         - Docker + Jenkins (Declarative Pipeline)
+         - Bitbucket -> Webhook -> Jenkins -> Archive & App Distribution
+- 그룹
+   - 🔭 [Google Developer Groups Songdo Organizer](https://gdg.community.dev/gdg-songdo/) (2022~)
+   - 🔭 [Google Developer Student Clubs TUK Lead](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
+   - 🕹️ [한국 게임메이커 커뮤니티 운영진](https://cafe.naver.com/crazygm) (2015~)
 - 🌱 산업기능요원(Agent) 복무 완료
-- 🔭 [Google Developer Groups Songdo 오거나이저](https://gdg.community.dev/gdg-songdo/) (2022~)
-- 🔭 [Google Developer Student Clubs TUK Lead](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
 
 # 경험
 - 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
