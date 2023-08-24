@@ -37,7 +37,9 @@
          - Bitbucket -> Webhook -> Jenkins -> Archive & App Distribution
 - 그룹
    - 🔭 [Google Developer Groups Songdo Organizer](https://gdg.community.dev/gdg-songdo/) (2022~)
-   - 🔭 [Google Developer Student Clubs TUK Lead](https://gdsc.community.dev/tech-university-of-korea/) (2022~)
+   - 🔭 [Google Developer Student Clubs TUK Lead](https://gdsc.community.dev/tech-university-of-korea/)
+      - 2023~2024 Lead
+      - 2022~2023 Core  
    - 🕹️ [한국 게임메이커 커뮤니티 운영진](https://cafe.naver.com/crazygm) (2015~)
 - 🌱 산업기능요원(Agent) 복무 완료
 
