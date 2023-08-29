@@ -14,8 +14,6 @@
 # In Progress
 - 📂 IT 특성화고등학교 유니티 강의 (2023. 04 - 2023. 11)
 - 📂 한이음 ICT (2023. 04 - 2023. 11)
-- 📂 Google I/O Extended Incheon (2023. 08. 26)
-   - [Festa](https://festa.io/events/3780)
 - 📂 2023 스마틴앱챌린지 생활부문 멘토 (2023. 07 - 2023. 11)
    - [포스터](https://tacademy.skplanet.com/upload/202304/20230403100002919535410.png)
 
@@ -126,6 +124,9 @@
 - 2023 GDG Campus Korea 사람을 찾습니다 at 컬리
    - 누구나 할 수 있는 사이드 프로젝트
    - [Festa](https://festa.io/events/3454)
+- Google I/O Extended Incheon
+   - Android UI 상태저장 권장사항
+   - [Festa](https://festa.io/events/3780)
 
 # 프로젝트
 - TRANSER
