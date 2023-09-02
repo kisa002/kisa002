@@ -127,6 +127,7 @@
 - Google I/O Extended Incheon
    - Android UI 상태저장 권장사항
    - [Festa](https://festa.io/events/3780)
+   - [발표자료](https://speakerdeck.com/pangmoo/andeuroideu-ui-sangtae-jeojang-gweonjangsahang)
 
 # 프로젝트
 - TRANSER
