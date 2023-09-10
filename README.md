@@ -143,6 +143,10 @@
 - 한국전쟁2030
    - 중학교 3학년 때 출시한 +50만 회 전쟁 게임
    - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
+- 음료수회사경영하기
+   - 중학교 3학년 때 출시한 +10만회 경영 게임 (키스토어 손실로 업데이트 불가하여 플레이스토어 내려감)
+   - [소개 영상](https://www.youtube.com/watch?v=HbEtPNQOgf8)
+   - [APK Pure](https://m.apkpure.com/kr/%EC%9D%8C%EB%A3%8C%EC%88%98%ED%9A%8C%EC%82%AC-%EA%B2%BD%EC%98%81%ED%95%98%EA%B8%B0-%ED%83%80%EC%9D%B4%EC%BF%A4%EC%8B%9D-%EB%85%B8%EA%B0%80%EB%8B%A4-%EB%8F%88%EB%B2%8C%EA%B8%B0%EA%B2%8C%EC%9E%84/com.haeyum.Drinks_Company_Management)
 - VR 쇼핑몰 - VITEDS
    - 2019 경기 VR/AR 해커톤 HTC VIVE 초이스 수상 (대만 United XR 전시 및 HTC 본사 견학)
    - [Youtube 시연 영상](https://www.youtube.com/watch?v=NEQlkGCJH44)
