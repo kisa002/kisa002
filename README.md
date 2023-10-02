@@ -5,17 +5,15 @@
 - 📨 [블로그](https://holykisa.tistory.com/)
 - 🖥 [포트폴리오](https://haeyum.dev/pangmoo)
 - 🗳️ [링크드인](https://www.linkedin.com/in/firebase/)
-- 🚀 [로켓펀치](https://www.rocketpunch.com/@7c8d04fec04644a4)
+- 🚀 [로켓펀치](https://www.rocketpunch.com/@kotlin)
 - 🎒 [커리어리](https://careerly.co.kr/@kotlin)
 - 😎 [페이스북](https://fb.com/kisa002)
 - 🌟 [인스타그램](https://www.instagram.com/kisahacker/)
 - 📹 [유튜브](https://www.youtube.com/channel/UCFpIYi_nOXp91jUCciDYOug)
 
 # In Progress
-- 📂 IT 특성화고등학교 유니티 강의 (2023. 04 - 2023. 11)
+- 📂 IT 특성화고등학교 유니티 강의 (2023. 04 - 2023. 10)
 - 📂 한이음 ICT (2023. 04 - 2023. 11)
-- 📂 2023 스마틴앱챌린지 생활부문 멘토 (2023. 07 - 2023. 11)
-   - [포스터](https://tacademy.skplanet.com/upload/202304/20230403100002919535410.png)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -84,7 +82,7 @@
    - [조선일보](https://www.chosun.com/site/data/html_dir/2020/03/23/2020032303791.html)
    > 공동 대응이 정부에 제안하고 마스크맵 서비스가 개시되기까지 걸린 시간은 딱 일주일이었다. 대중의 반응은 폭발적이다. 한국정보화진흥원에 따르면 마스크맵 관련 서비스의 조회 수를 모두 더하면 시간당 최대 1000만건에 달한다.<br>
    > 유광무(20)씨는 '세이브마스크' 서비스를 만들었다. 원활한 서비스를 제공하기 위해 요즘도 퇴근 후 매일 새벽 3시까지 유지·보수 작업을 한다
-- 🪪 16회 앱잼 개최 관련 뉴스
+- 🪪 16회 앱잼 개최 뉴스 (행사 기획/운영)
    - [게임동아](https://game.donga.com/90001/)
    > 한국 최대의 청소년 앱 개발 경진대회인 STAC(스마틴앱챌린지)에 참여한 학생들이 주축이 되어 진행하는 이 행사는 미래의 IT 개발 주역들인 청소년들 200여 명이 몰려 개발에 대한 뜨거운 열정을 확인할 수 있었다.
 - 18회 앱잼 최우수상 수상 뉴스
