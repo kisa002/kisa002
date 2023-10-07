@@ -148,8 +148,11 @@
    - 중학교 3학년 때 출시한 +10만회 경영 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
    - [소개 영상](https://www.youtube.com/watch?v=HbEtPNQOgf8)
    - [APK Pure](https://m.apkpure.com/kr/%EC%9D%8C%EB%A3%8C%EC%88%98%ED%9A%8C%EC%82%AC-%EA%B2%BD%EC%98%81%ED%95%98%EA%B8%B0-%ED%83%80%EC%9D%B4%EC%BF%A4%EC%8B%9D-%EB%85%B8%EA%B0%80%EB%8B%A4-%EB%8F%88%EB%B2%8C%EA%B8%B0%EA%B2%8C%EC%9E%84/com.haeyum.Drinks_Company_Management)
+- 직업키우기2
+   - 중학교 2학년 때 출시한 +10만회 클릭커 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
+   - [APK Pure](https://m.apkpure.com/kr/%EC%A7%81%EC%97%85%ED%82%A4%EC%9A%B0%EA%B8%B02/com.Heyum.RaiseJob2)
 - 직업키우기1
-   - 중학교 1학년 때 첫 출시한 +10만회 클릭커 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
+   - 중학교 1학년 때 첫 플레이스토어 출시한 +10만회 방치형 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
    - [APK Pure](https://m.apkpure.com/kr/%EC%83%88%EB%A1%9C%EC%9A%B4%EC%9E%A5%EB%A5%B4-%EC%A7%81%EC%97%85%ED%82%A4%EC%9A%B0%EA%B8%B01/com.ideasoft.RaiseJob_1)
 - VR 쇼핑몰 - VITEDS
    - 2019 경기 VR/AR 해커톤 HTC VIVE 초이스 수상 (대만 United XR 전시 및 HTC 본사 견학)
