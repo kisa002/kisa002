@@ -12,7 +12,6 @@
 - 📹 [유튜브](https://www.youtube.com/channel/UCFpIYi_nOXp91jUCciDYOug)
 
 # In Progress
-- 📂 IT 특성화고등학교 유니티 강의 (2023. 04 - 2023. 10)
 - 📂 한이음 ICT (2023. 04 - 2023. 11)
 
 # 학력
