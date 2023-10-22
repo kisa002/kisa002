@@ -12,7 +12,10 @@
 - 📹 [유튜브](https://www.youtube.com/channel/UCFpIYi_nOXp91jUCciDYOug)
 
 # In Progress
-- 📂 한이음 ICT (2023. 04 - 2023. 11)
+- 📂 MAD Conference
+   - 2023. 12. 08
+- 📂 2023 Devfest GDG Songdo x Incheon
+   - 2023. 12. 10
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
