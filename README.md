@@ -13,9 +13,9 @@
 
 # In Progress
 - 📂 MAD Conference
-   - 2023. 12. 08
+   - 2023.12.02
 - 📂 2023 Devfest GDG Songdo x Incheon
-   - 2023. 12. 10
+   - 2023.12.10
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
