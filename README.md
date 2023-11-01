@@ -10,6 +10,7 @@
 - 😎 [페이스북](https://fb.com/kisa002)
 - 🌟 [인스타그램](https://www.instagram.com/kisahacker/)
 - 📹 [유튜브](https://www.youtube.com/channel/UCFpIYi_nOXp91jUCciDYOug)
+- 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
 - 📂 MAD Conference
