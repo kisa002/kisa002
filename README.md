@@ -16,7 +16,7 @@
 - 📂 [MAD Conference](https://festa.io/events/4182)
    - 준비 및 발표자
    - 2023.12.02
-- 📂 [2023 Devfest GDG Songdo](https://festa.io/events/4246)
+- 📂 [Devfest Songdo 2023](https://festa.io/events/4246)
    - 주최 및 발표자
    - 2023.12.10
 
