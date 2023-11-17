@@ -45,11 +45,11 @@
 - 🌱 산업기능요원(Agent) 복무 완료
 
 # 경험
-- 📫 청 ~~(소)~~ 년 인디 개발사 HAEYUM
-- 🤔 SmarteenAppClub 8기 부회장
-- 🎮 넷마블 게임아카데미 2기
-- 🗳️ 스마일게이트 멤버십 11기
-- 💬 대한민국 청소년 기자단 IT•과학부 기자
+- 📫 청 ~~(소)~~ 년 인디 개발사 [HAEYUM](https://haeyum.com/)
+- 🤔 [SmarteenAppClub](https://www.facebook.com/groups/skappclub/) 8기 부회장
+- 🎮 [넷마블 게임아카데미](https://www.netmarblefoundation.org/) 2기
+- 🗳️ [스마일게이트 멤버십](https://careers.smilegate.com/student/membership) 11기
+- 💬 [대한민국 청소년 기자단](https://youthpress.net/) IT•과학부 기자
 - 🦮 STA+C 2019-2023 멘토
    - [Tacademy](https://tacademy.skplanet.com/front/exhibition/listExhibition.action)
 
