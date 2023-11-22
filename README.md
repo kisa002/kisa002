@@ -146,6 +146,9 @@
 - 세이브마스크
    - 공적마스크 API를 활용하여 만든 마스크 앱
    - [GooglePlay](https://play.google.com/store/apps/details?id=com.haeyum.savemask)
+- 세이프 코로나
+   - 코로나 확진자 날짜 별 동선 및 동선과 사용자 위치가 근접한 경우 경고 알림 제공
+   - [APK Pure](https://apkpure.com/%EC%84%B8%EC%9D%B4%ED%94%84-%EC%BD%94%EB%A1%9C%EB%82%98-%ED%99%9C%EB%8F%99%EA%B5%AC%EC%97%AD-%EA%B7%BC%EC%A0%91-%EC%8B%9C-%EA%B2%BD%EA%B3%A0-%EC%95%8C%EB%A6%BC-%EB%B0%8F-%ED%99%95%EC%A7%84%EC%9E%90-%EC%9D%B4%EB%8F%99%EA%B2%BD%EB%A1%9C/com.haeyum.safecorona)
 - 한국전쟁2030
    - 중학교 3학년 때 출시한 +50만 회 전쟁 게임
    - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
