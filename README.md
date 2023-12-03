@@ -13,9 +13,6 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 [MAD Conference](https://festa.io/events/4182)
-   - 준비 및 발표자
-   - 2023.12.02
 - 📂 [Devfest Songdo 2023](https://festa.io/events/4246)
    - 주최 및 발표자
    - 2023.12.10
@@ -134,6 +131,9 @@
    - Android UI 상태저장 권장사항
    - [Festa](https://festa.io/events/3780)
    - [발표자료](https://speakerdeck.com/pangmoo/andeuroideu-ui-sangtae-jeojang-gweonjangsahang)
+- MAD Conference
+   - 행사 준비 및 1-1부, 2-1부, 3-1부 발표자
+   - [Festa](https://festa.io/events/4182)
 
 # 프로젝트
 - TRANSER
