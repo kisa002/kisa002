@@ -134,6 +134,7 @@
 - MAD Conference
    - 행사 준비 및 1-1부, 2-1부, 3-1부 발표자
    - [Festa](https://festa.io/events/4182)
+   - [1-1부 발표자료](https://speakerdeck.com/pangmoo/madc2023-kmp)
 
 # 프로젝트
 - TRANSER
