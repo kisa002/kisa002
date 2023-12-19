@@ -13,9 +13,8 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 [Devfest Songdo 2023](https://festa.io/events/4246)
-   - 주최 및 발표자
-   - 2023.12.10
+- 📂 GDSC New Year 해커톤 주최
+   - 2024. 01. 12 ~ 13
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -136,12 +135,13 @@
    - [Festa](https://festa.io/events/4182)
    - [1-1부 발표자료](https://speakerdeck.com/pangmoo/madc2023-kmp)
 - GDG Devfest 2023 Songdo&Incheon
+   - Kotlin Multiplatform으로 Android/iOS/Desktop 번역기 만들기
    - [Festa](https://festa.io/events/4246)
    - [발표자료](https://speakerdeck.com/pangmoo/devfest2023-transer)
 
 # 프로젝트
 - TRANSER
-   - Kotlin Mutliplatform으로 Android/Desktop 번역 유틸리티 개발
+   - Kotlin Mutliplatform으로 Android/iOS/Desktop 번역 유틸리티 개발
    - [Git](https://github.com/kisa002/transer)
 - NamingFox
    - 개발자의 최대 난제, 변수/함수 이름 지어주는 플러그인
