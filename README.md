@@ -13,9 +13,7 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 24회 앱잼 심사위원 2024.01.07
-- 📂 GDSC New Year 해커톤 주최
-   - 2024.01.12 ~ 01.13
+- 📂 GDG Songdo x Incheon HelloWorld (2024. 03. 30)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
