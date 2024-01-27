@@ -13,7 +13,7 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 GDG Songdo x Incheon HelloWorld (2024. 03. 30)
+- 📂 GDG Songdo x Incheon HelloWorld (2024. 03. 30)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -101,8 +101,12 @@
    - [이투데이이](https://www.etoday.co.kr/news/view/2286242)
    > 서울 코엑스 E홀에서 열린 이번 행사는 국내 최대 규모의 안드로이드 개발자 컨퍼런스로 준비됐다.
      (중략...) 드로이드 나이츠는 매년 500명 이상이 참여하는 대형 행사로 자리매김했으며, 8년간 누적 참여자 5000명을 돌파했다.
+- GDSC 나무톤(심사위원 참여)
+   - [머니투데이](https://news.mt.co.kr/mtview.php?no=2023122910090448138)
+   > 알파코 K-디지털 플랫폼 'DT 그라운드'와 GDSC 4개교 연합(서울여자대학교, 연세대학교, 한양대학교, 성균관대학교)이 공동 주최하고 Google for Developers, 몬스터에너지, 뤼튼(Wrtn)이 후원하는 해커톤 'NAMUTHON(나무톤)'이 29일 성황리에 종료됐다.
 - 23회 앱잼(심사위원 참여)
    - [글로벌경제신문](https://www.getnews.co.kr/news/articleView.html?idxno=637088)
+   > 알파코 K-디지털 플랫폼은 SK플래닛과 지난 5일부터 6일까지 이틀간 DT그라운드에서 고교생 대상 해커톤 대회인 ‘앱잼(App Jam)’을 개최했다.
 
 # 발표
 - Naver SEF 2018
