@@ -13,7 +13,8 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 GDG Songdo x Incheon HelloWorld (2024. 03. 30)
+- 📂 [GDG Songdo x Incheon HelloWorld (2024. 03. 30)](https://festa.io/events/4757)
+- 📂 [Native vs Flutter 그리고 KMP (2024. 04. 06)](https://event-us.kr/ted/event/79581)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
