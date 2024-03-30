@@ -13,7 +13,6 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 [GDG Songdo x Incheon HelloWorld (2024. 03. 30)](https://festa.io/events/4757)
 - 📂 [Native vs Flutter 그리고 KMP (2024. 04. 06)](https://event-us.kr/ted/event/79581)
 
 # 학력
@@ -147,6 +146,8 @@
    - Kotlin Multiplatform으로 Android/iOS/Desktop 번역기 만들기
    - [Festa](https://festa.io/events/4246)
    - [발표자료](https://speakerdeck.com/pangmoo/devfest2023-transer)
+- GDG Songdo x Incheon HelloWorld
+   - [Festa](https://festa.io/events/4757)
 
 # 프로젝트
 - TRANSER
