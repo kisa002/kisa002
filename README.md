@@ -14,6 +14,7 @@
 
 # In Progress
 - 📂 [Native vs Flutter 그리고 KMP (2024. 04. 06)](https://event-us.kr/ted/event/79581)
+   - [발표자료](https://speakerdeck.com/pangmoo/kotlin-with-multiplatform)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
