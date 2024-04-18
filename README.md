@@ -13,8 +13,7 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 [Native vs Flutter 그리고 KMP (2024. 04. 06)](https://event-us.kr/ted/event/79581)
-   - [발표자료](https://speakerdeck.com/pangmoo/kotlin-with-multiplatform)
+- 📂 Midterm
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -52,11 +51,11 @@
 # 기술
 - 🤖 Android
    - Main
-      - `메인으로 사용하고 있는 기술이에요.`
-      - Kotlin, MVVM, Coroutine + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
+      - `메인으로 사용하고 있는 기술이에요`
+      - Kotlin, (MVVM/MVC), Coroutine + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
    - Deprecated
-      - `과거에 주로 사용했던 기술이에요`
-      - Java, MVC, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View + Navigation Component
+      - `과거에 주로 사용했던 기술이에요. 물론 완전히 사용하지 않는다는 것은 아니에요`
+      - Java, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View + Navigation Component
    - Firebase
       - App Distribution
       - Cloud Messaging
@@ -149,6 +148,10 @@
    - [발표자료](https://speakerdeck.com/pangmoo/devfest2023-transer)
 - GDG Songdo x Incheon HelloWorld
    - [Festa](https://festa.io/events/4757)
+- Native vs Flutter 그리고 KMP
+   - 박상권님(Ted Park)의 안드로이드 컨퍼런스. KMP 주제로 발표
+   - [EVENT US](https://event-us.kr/ted/event/79581)
+   - [발표자료](https://speakerdeck.com/pangmoo/kotlin-with-multiplatform)
 
 # 프로젝트
 - TRANSER
