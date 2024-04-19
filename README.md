@@ -198,6 +198,10 @@
 - Slash Hunter
    - 스마일게이트 멤버십 11기 프로젝트
    - [Youtube](https://www.youtube.com/watch?v=d2vKvDNbdrE)
+- Lodea
+   - 롯데백화점 AR 안내 및 챗봇 상담 앱
+   - 2023 경기 메타버스 해커톤 (준우승)
+   - [Youtube](https://www.youtube.com/watch?v=QpHfXrK_TxU)
 
 <div align=center>
    
