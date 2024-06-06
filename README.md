@@ -154,54 +154,62 @@
    - [발표자료](https://speakerdeck.com/pangmoo/kotlin-with-multiplatform)
 
 # 프로젝트
-- TRANSER
-   - Kotlin Mutliplatform으로 Android/iOS/Desktop 번역 유틸리티 개발
-   - [Git](https://github.com/kisa002/transer)
-- NamingFox
-   - 개발자의 최대 난제, 변수/함수 이름 지어주는 플러그인
-   - [Git](https://github.com/kisa002/NamingFox)
-   - [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21095-namingfox)
-- 세이브마스크
-   - 공적마스크 API를 활용하여 만든 마스크 앱
-   - [GooglePlay](https://play.google.com/store/apps/details?id=com.haeyum.savemask)
-- 세이프 코로나
-   - 코로나 확진자 날짜 별 동선 및 동선과 사용자 위치가 근접한 경우 경고 알림 제공
-   - [APK Pure](https://apkpure.com/%EC%84%B8%EC%9D%B4%ED%94%84-%EC%BD%94%EB%A1%9C%EB%82%98-%ED%99%9C%EB%8F%99%EA%B5%AC%EC%97%AD-%EA%B7%BC%EC%A0%91-%EC%8B%9C-%EA%B2%BD%EA%B3%A0-%EC%95%8C%EB%A6%BC-%EB%B0%8F-%ED%99%95%EC%A7%84%EC%9E%90-%EC%9D%B4%EB%8F%99%EA%B2%BD%EB%A1%9C/com.haeyum.safecorona)
-- 한국전쟁2030
-   - 중학교 3학년 때 출시한 +50만 회 전쟁 게임
-   - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
-- 음료수회사경영하기
-   - 중학교 3학년 때 출시한 +10만회 경영 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
-   - [소개 영상](https://www.youtube.com/watch?v=HbEtPNQOgf8)
-   - [APK Pure](https://m.apkpure.com/kr/%EC%9D%8C%EB%A3%8C%EC%88%98%ED%9A%8C%EC%82%AC-%EA%B2%BD%EC%98%81%ED%95%98%EA%B8%B0-%ED%83%80%EC%9D%B4%EC%BF%A4%EC%8B%9D-%EB%85%B8%EA%B0%80%EB%8B%A4-%EB%8F%88%EB%B2%8C%EA%B8%B0%EA%B2%8C%EC%9E%84/com.haeyum.Drinks_Company_Management)
-- 직업키우기2
-   - 중학교 2학년 때 출시한 +10만회 클릭커 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
-   - [APK Pure](https://m.apkpure.com/kr/%EC%A7%81%EC%97%85%ED%82%A4%EC%9A%B0%EA%B8%B02/com.Heyum.RaiseJob2)
-- 직업키우기1
-   - 중학교 1학년 때 첫 플레이스토어 출시한 +10만회 방치형 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
-   - [APK Pure](https://m.apkpure.com/kr/%EC%83%88%EB%A1%9C%EC%9A%B4%EC%9E%A5%EB%A5%B4-%EC%A7%81%EC%97%85%ED%82%A4%EC%9A%B0%EA%B8%B01/com.ideasoft.RaiseJob_1)
-- VR 쇼핑몰 - VITEDS
-   - 2019 경기 VR/AR 해커톤 HTC VIVE 초이스 수상 (대만 United XR 전시 및 HTC 본사 견학)
-   - [Youtube 시연 영상](https://www.youtube.com/watch?v=NEQlkGCJH44)
-   - [Youtube 프로모션 영상](https://www.youtube.com/watch?v=1il1aoBZwM0)
-- VR Drawing - DRUNT
-   - [Youtube](https://www.youtube.com/watch?v=1PbxeVkxfkk)
-- AR 길찾기 - Trelity
-   - STA+C 대회 최우수상
-   - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
-- AR 쇼핑몰 - AURES
-   - 한국공학대 프리캡스톤디자인 대상
-   - [Youtube](https://www.youtube.com/watch?v=xfw-bDkxfCU)
-- 헌츠: 숲속의 사냥꾼
-   - 방학기간 동안 만든 게임 프로젝트
-   - [Youtube](https://www.youtube.com/watch?v=H6anyYtKSoM)
-- Slash Hunter
-   - 스마일게이트 멤버십 11기 프로젝트
-   - [Youtube](https://www.youtube.com/watch?v=d2vKvDNbdrE)
-- Lodea
-   - 롯데백화점 AR 안내 및 챗봇 상담 앱
-   - 2023 경기 메타버스 해커톤 (준우승)
-   - [Youtube](https://www.youtube.com/watch?v=QpHfXrK_TxU)
+- Game
+   - 직업키우기1
+      - (2013) 중학교 1학년 때 첫 플레이스토어 출시한 +10만회 방치형 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
+      - [APK Pure](https://m.apkpure.com/kr/%EC%83%88%EB%A1%9C%EC%9A%B4%EC%9E%A5%EB%A5%B4-%EC%A7%81%EC%97%85%ED%82%A4%EC%9A%B0%EA%B8%B01/com.ideasoft.RaiseJob_1)
+   - 직업키우기2
+      - (2014) 중학교 2학년 때 출시한 +10만회 클릭커 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
+      - [APK Pure](https://m.apkpure.com/kr/%EC%A7%81%EC%97%85%ED%82%A4%EC%9A%B0%EA%B8%B02/com.Heyum.RaiseJob2)
+   - 음료수회사경영하기
+      - (2015) 중학교 3학년 때 출시한 +10만회 경영 게임 (키스토어 분실로 업데이트 불가하여 플레이스토어 내려감)
+      - [소개 영상](https://www.youtube.com/watch?v=HbEtPNQOgf8)
+      - [APK Pure](https://m.apkpure.com/kr/%EC%9D%8C%EB%A3%8C%EC%88%98%ED%9A%8C%EC%82%AC-%EA%B2%BD%EC%98%81%ED%95%98%EA%B8%B0-%ED%83%80%EC%9D%B4%EC%BF%A4%EC%8B%9D-%EB%85%B8%EA%B0%80%EB%8B%A4-%EB%8F%88%EB%B2%8C%EA%B8%B0%EA%B2%8C%EC%9E%84/com.haeyum.Drinks_Company_Management)
+   - 한국전쟁2030
+      - (2015) 중학교 3학년 때 출시한 +50만 회 전쟁 게임
+      - [GooglePlay](https://play.google.com/store/apps/details?id=com.HAEYUM.Korea_War_2030)
+   - 헌츠: 숲속의 사냥꾼
+      - (2018) 고등학교 3학년 방학기간 동안 만든 게임 프로젝트
+      - [Youtube](https://www.youtube.com/watch?v=H6anyYtKSoM)
+   - Slash Hunter
+      - (2019) 스마일게이트 멤버십 11기 프로젝트
+      - [Youtube](https://www.youtube.com/watch?v=d2vKvDNbdrE)
+- VR/AR
+   - Neon Slash
+         - (2018) Beat Saber 모티브로 만든 VR 리듬 게임 - Oculus
+         - [Youtube](https://www.youtube.com/watch?v=NS5Yc6i5Xss)
+   - AR 길찾기 - Trelity
+      - (2018) STA+C 대회 최우수상
+      - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
+   - VR 쇼핑몰 - VITEDS
+      - (2019) 2019 경기 VR/AR 해커톤 HTC VIVE 초이스 수상 (대만 United XR 전시 및 HTC 본사 견학) - Vive
+      - [Youtube 시연 영상](https://www.youtube.com/watch?v=NEQlkGCJH44)
+      - [Youtube 프로모션 영상](https://www.youtube.com/watch?v=1il1aoBZwM0)
+   - VR Drawing - DRUNT
+      - (2019) VR 드로잉 - Vive
+      - [Youtube](https://www.youtube.com/watch?v=1PbxeVkxfkk)
+   - AR 쇼핑몰 - AURES
+      - (2020) 한국공학대 프리캡스톤디자인 대상
+      - [Youtube](https://www.youtube.com/watch?v=xfw-bDkxfCU)
+   - Lodea
+      - (2023) 롯데백화점 게이미피케이션 AR 안내 및 챗봇 상담 앱
+      - 2023 경기 메타버스 해커톤 (준우승)
+      - [Youtube](https://www.youtube.com/watch?v=QpHfXrK_TxU)
+- Application
+   - 세이브마스크
+      - (2020) 공적마스크 API를 활용하여 만든 마스크 앱
+      - [GooglePlay](https://play.google.com/store/apps/details?id=com.haeyum.savemask)
+   - 세이프 코로나
+      - (2020) 코로나 확진자 날짜 별 동선 및 동선과 사용자 위치가 근접한 경우 경고 알림 제공
+      - [APK Pure](https://apkpure.com/%EC%84%B8%EC%9D%B4%ED%94%84-%EC%BD%94%EB%A1%9C%EB%82%98-%ED%99%9C%EB%8F%99%EA%B5%AC%EC%97%AD-%EA%B7%BC%EC%A0%91-%EC%8B%9C-%EA%B2%BD%EA%B3%A0-%EC%95%8C%EB%A6%BC-%EB%B0%8F-%ED%99%95%EC%A7%84%EC%9E%90-%EC%9D%B4%EB%8F%99%EA%B2%BD%EB%A1%9C/com.haeyum.safecorona)
+   - TRANSER
+      - (2023) Kotlin Mutliplatform으로 Android/iOS/Desktop 번역 유틸리티 개발
+      - [Git](https://github.com/kisa002/transer)
+   - NamingFox
+      - (2023) 개발자의 최대 난제, 변수/함수 이름 지어주는 플러그인
+      - [Git](https://github.com/kisa002/NamingFox)
+      - [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21095-namingfox)
+
 
 <div align=center>
    
