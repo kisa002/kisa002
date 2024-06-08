@@ -52,7 +52,7 @@
 - 🤖 Android
    - Main
       - `메인으로 사용하고 있는 기술이에요`
-      - Kotlin, (MVVM/MVC), Coroutine + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
+      - Kotlin, Coroutine + Flow, Jetpack Compose, Ktor, DataStore, ROOM, Hilt, Koin
    - Deprecated
       - `과거에 주로 사용했던 기술이에요. 물론 완전히 사용하지 않는다는 것은 아니에요`
       - Java, RxJava2, LiveData, Retrofit, View/Data Binding(one/two way) + Custom View + Navigation Component
@@ -209,6 +209,10 @@
       - (2023) 개발자의 최대 난제, 변수/함수 이름 지어주는 플러그인
       - [Git](https://github.com/kisa002/NamingFox)
       - [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/21095-namingfox)
+   - 토치앱
+      - (2023) Kotlin/Compose Multiplatform으로 만든 Android/iOS 토치앱
+      - [Git](https://github.com/kisa002/kmm-torch)
+      - [Article](https://holykisa.tistory.com/111)
 
 
 <div align=center>
