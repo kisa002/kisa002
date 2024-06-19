@@ -13,7 +13,7 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 Final Exam (~06.24)
+- 📂 [KotlinConf'24 Global in South Korea](https://festa.io/events/5375)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -107,7 +107,7 @@
 - 23회 앱잼(심사위원 참여)
    - [글로벌경제신문](https://www.getnews.co.kr/news/articleView.html?idxno=637088)
    > 알파코 K-디지털 플랫폼은 SK플래닛과 지난 5일부터 6일까지 이틀간 DT그라운드에서 고교생 대상 해커톤 대회인 ‘앱잼(App Jam)’을 개최했다.
-- SW 교육원-GDSC KR 공동 주관 ‘2024 GDSC KR NEW YEAR 해커톤 대회’ 성료
+- (해커톤 주최 및 멘토) SW 교육원-GDSC KR 공동 주관 ‘2024 GDSC KR NEW YEAR 해커톤 대회’ 성료
    - [CAU News](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&BBS_SEQ=7816)
    > 대학 SW교육원과 GDSC(Google Developer Student Clubs) KR이 공동주관한 ‘2024 GESC KR NEW YEAR 해커톤’ 대회가 12일과 13일 양일간 301관(중앙문화예술과)과 302관(대학원)에서 개최됐다. 
 
