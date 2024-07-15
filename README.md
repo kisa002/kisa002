@@ -13,7 +13,7 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 [KotlinConf'24 Global in South Korea](https://festa.io/events/5375)
+- 📂 [I/O Extended 2024 Incheon](https://festa.io/events/5477)
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
