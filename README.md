@@ -1,19 +1,26 @@
 # Hello, PangMoo?
 상상하는 것을 여러가지 언어와 엔진을 사용하여 개발하는 것을 좋아하는 귀염둥이 개발자 팡무입니다 >_<
 
-- 👒 [네이버](https://search.naver.com/search.naver?query=유광무)
+### Profile
 - 📨 [블로그](https://holykisa.tistory.com/)
+- 👒 [네이버](https://search.naver.com/search.naver?query=유광무)
 - 🖥 [포트폴리오](https://haeyum.dev/pangmoo)
-- 🗳️ [링크드인](https://www.linkedin.com/in/firebase/)
-- 🚀 [로켓펀치](https://www.rocketpunch.com/@kotlin)
-- 🎒 [커리어리](https://careerly.co.kr/@kotlin)
+
+### SNS
 - 😎 [페이스북](https://fb.com/kisa002)
 - 🌟 [인스타그램](https://www.instagram.com/kisahacker/)
+- 🗳️ [링크드인](https://www.linkedin.com/in/firebase/)
+
+### Other
+- 🚀 [로켓펀치](https://www.rocketpunch.com/@kotlin)
+- 🎒 [커리어리](https://careerly.co.kr/@kotlin)
 - 📹 [유튜브](https://www.youtube.com/channel/UCFpIYi_nOXp91jUCciDYOug)
+
+### Contact
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 [I/O Extended 2024 Incheon](https://festa.io/events/5477)
+- 📂 Develop...
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
