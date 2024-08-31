@@ -20,7 +20,8 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 Develop...
+- 📂 Reelts
+- 📂 GDG Korea Android Devfest
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
@@ -183,8 +184,8 @@
       - [Youtube](https://www.youtube.com/watch?v=d2vKvDNbdrE)
 - VR/AR
    - Neon Slash
-         - (2018) Beat Saber 모티브로 만든 VR 리듬 게임 - Oculus
-         - [Youtube](https://www.youtube.com/watch?v=NS5Yc6i5Xss)
+      - (2018) Beat Saber 모티브로 만든 VR 리듬 게임 - Oculus
+      - [Youtube](https://www.youtube.com/watch?v=NS5Yc6i5Xss)
    - AR 길찾기 - Trelity
       - (2018) STA+C 대회 최우수상
       - [Youtube](https://www.youtube.com/watch?v=Ljaa8M-oIaU)
