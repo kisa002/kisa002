@@ -160,6 +160,10 @@
    - 박상권님(Ted Park)의 안드로이드 컨퍼런스. KMP 주제로 발표
    - [EVENT US](https://event-us.kr/ted/event/79581)
    - [발표자료](https://speakerdeck.com/pangmoo/kotlin-with-multiplatform)
+- DevFest Android in Korea 2024
+   - 게임 개발하던 학생이 이 세계에선 안드로이드 개발자?
+   - [Festa](https://festa.io/events/5968)
+   - [발표자료](https://speakerdeck.com/pangmoo/game-dev-to-android-dev)
 
 # 프로젝트
 - Game
