@@ -208,6 +208,10 @@
       - (2023) 롯데백화점 게이미피케이션 AR 안내 및 챗봇 상담 앱
       - 2023 경기 메타버스 해커톤 (준우승)
       - [Youtube](https://www.youtube.com/watch?v=QpHfXrK_TxU)
+   - MetCure
+      - (2024) VR 메타버스를 통해 상담원(전문의)이 아동 ADHD 환자를 치료할 수 있도록 도와주는 서비스
+      - 2024 경기 메타버스 해커톤 (준우승)
+      - [Youtube](https://www.youtube.com/watch?v=Y4Tf6mu4YNA)
 - Application
    - 세이브마스크
       - (2020) 공적마스크 API를 활용하여 만든 마스크 앱
