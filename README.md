@@ -20,9 +20,7 @@
 - 🍫 [카카오톡](https://haeyum.dev/kakaotalk/)
 
 # In Progress
-- 📂 Reelts
 - 📂 기말고사
-- 📂 2025 GDGoC 연합 해커톤: 백야
 
 # 학력
 - 📖 평촌경영고등학교 스마트콘텐츠과
